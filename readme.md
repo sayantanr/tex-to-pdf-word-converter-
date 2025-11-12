@@ -207,7 +207,5 @@ To make this app start instantly on Windows:
 
 ```
 
----
 
-Would you like me to add **badges** (Python version, license, Streamlit, etc.) and a **preview screenshot** section for GitHub display?
 ```
